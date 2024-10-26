@@ -3,7 +3,6 @@ package pkg2239457_f2_program_2_buyticket;
 import java.util.Arrays;
 import java.util.Date;
 
-
 public class Festival extends Event{
     private String[] FoodVenues;
     private String[] Activity;
