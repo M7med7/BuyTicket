@@ -1,8 +1,4 @@
-/*
-Name: Mohammed Rashid Alharbi
-ID: 2239457
-Section: F2
-*/
+
 package pkg2239457_f2_program_2_buyticket;
 
 import java.util.Date;
