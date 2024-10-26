@@ -1,0 +1,45 @@
+AddMovie--Bilal, 2/3/2023, 2/4/2023, 50, Jeddah, Red Sea Mall, English, Family, 3.8, 20, Animation, Adewale Akinnuoye, M, 1967
+AddMovie--The Upside, 6/3/2023, 6/6/2023, 50, Riyadh, Al Qasr Mall, English, Family, 4.5, 40, Comedy, Nicole Kidman, F, 1967
+AddMovie--Total Dhamal, 6/3/2023, 9/3/2023, 50, Jeddah, Red Sea Mall, Hindi, Family, 2.5, 25, Action, Ajay Devgn, M, 1969
+AddMovie--Glass, 2/2/2023, 13/3/2023, 50, Riyadh, Riyadh Park, English, Male, 3.4, 55, Sci-fi, Samuel Jackson, M, 1948
+AddMovie--The mule, 7/3/2023, 9/3/2023, 50, Riyadh, Al Qasr Mall, English, Family, 3.3, 15, Crime, Bradley Cooper, M, 1975
+AddMovie--The Lego Movie 2, 9/3/2023, 2/4/2023, 50, Jeddah, Red Sea Mall, English, Family, 4.0 , 20, Animation, Chris Pratt, M, 1979
+AddFestival--Wild Desert, 27/2/2023, 10/3/2023, 25.0, Khobar, Khobar front sea, All, 600, FoodTruck CofeeShops, zoo clown 
+AddFestival--Happy Land, 21/2/2023, 8/3/2023, 15.0, Riyadh, Nakheel mall, Family , 400, Burger Pizza, theater show 
+AddFestival--Rayeg, 8/3/2023, 9/3/2023, 25.0, Jeddah, Athletic Lifestyle Venue, All , 300, FoodTruck CofeeShops, zoo clown 
+AddFestival--Jeddah Fair is coming, 20/3/2023, 22/3/2023, 50.0, Jeddah, Athletic Lifestyle Venue, All, 400, Coffeeshops, group_activities
+AddFestival--Fashion show, 20/3/2023, 22/3/2023, 50.0, Taif, Arruddaf Park, Female, 340, Burger pizza CoffeeShops, Bridal_show
+AddFestival--Black Diamond, 3/3/2023, 6/4/2023, 25.0, Dammam, Black Diamond, Female, 340, CoffeeShops HealthyFood, Sporting_events
+AddConcert--Big Musical Festival, 23/9/2018, 24/9/2018, Jeddah, Jeddah Stadium, 0.0, 0, Male, 11 performers  
+AddConcert--Al Khamsa Legacy, 31/1/2023, 2/2/2023, Alula, Old Alula, 400, 0, Family , Andrea Bocelli
+AddConcert--Another World, 28/12/2018, 29/12/2018, Alula, Old Alula, 500, 0, Family , Majidah Alroumi
+AddConcert--Wonder Awakened, 7/3/2023, 9/3/2023, Alula, Old Alula, 500, 40, Family , Yanni
+AddCustomer--Ameerah Kareem, F, Jeddah, 12/2/1978, aa@gmail.com 
+AddCustomer--Ahmad Ali, M, Jeddah, 28/1/1990, ahmed@gmail.com
+AddCustomer--Saleh Salama, M , Jeddah, 2/2/2005, saleg@gmail.com
+AddCustomer--Jamal Bader, M, Riyadh, 5/5/1975, Jbadr@gmail.com
+AddCustomer--Manal Bader, F, Riyadh, 15/7/2010, Jbadr@gmail.com
+AddCustomer--Anas Bader, M, Riyadh, 7/7/2017, Jbadr@gmail.com
+BuyTicket--The mule, 7/3/2023
+BuyTicket--Al Khamsa Legacy, 31/1/2023
+BuyTicket--Wild Desert, 27/2/2023
+For--Ahmad Ali
+Submit
+BuyTicket--The Upside, 8/3/2023
+BuyTicket--Wonder Awakened, 9/9/2023
+BuyTicket--Happy Land, 27/2/2023
+For--Saleh Salama
+Submit
+BuyTicket--Glass, 2/3/2023
+BuyTicket--Happy Land, 27/2/2023
+For--Anas Bader
+Submit
+BuyTicket--Another World, 7/3/2023
+For--Manal Rajab
+Submit
+BuyTicket--The Lego Movie 2, 7/3/2023
+BuyTicket--Happy Land, 27/2/2023
+For--Manal Bader
+Submit
+PrintSortMovies
+PrintSortFestivals
